@@ -1,5 +1,3 @@
-Apologies for the confusion. Here’s the README content with the example usage fully integrated into the text, without separating it into code blocks:
-
 Fourier Analysis for Sleep Trend Detection
 
 This repository contains Python code for performing Fourier analysis on data to detect trends, specifically for analyzing sleep patterns using FitBit data. However, the techniques can be applied to any signal analysis task that benefits from Fourier transforms.
